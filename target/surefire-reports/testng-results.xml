@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-17T17:01:02 IST" name="LRAPISuite" finished-at="2023-11-17T17:01:06 IST" duration-ms="3889">
+    <groups>
+    </groups>
+    <test started-at="2023-11-17T17:01:02 IST" name="LRAPITest" finished-at="2023-11-17T17:01:06 IST" duration-ms="3889">
+      <class name="api.test.UserTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.test.UserTests@dbf57b3]" started-at="2023-11-17T17:01:02 IST" name="setup" finished-at="2023-11-17T17:01:03 IST" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests@dbf57b3]" started-at="2023-11-17T17:01:03 IST" name="testPostUser" finished-at="2023-11-17T17:01:06 IST" duration-ms="3035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+      </class> <!-- api.test.UserTests -->
+    </test> <!-- LRAPITest -->
+  </suite> <!-- LRAPISuite -->
+</testng-results>
