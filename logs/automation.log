@@ -8,3 +8,5 @@
 15:14:29.570 [main] INFO  api.test.UserTests - ************** New User Created Successfully ****************
 17:01:03.329 [main] INFO  api.test.UserTests - ************** Creating New User ****************
 17:01:06.358 [main] INFO  api.test.UserTests - ************** New User Created Successfully ****************
+20:56:41.928 [main] INFO  api.test.UserTests - ************** Creating New User ****************
+20:56:45.177 [main] INFO  api.test.UserTests - ************** New User Created Successfully ****************
