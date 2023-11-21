@@ -38,14 +38,14 @@
         
         </plugin>
 
-	 <plugins>
+	 
     <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-deploy-plugin</artifactId>
         <!-- Update the version to the latest available -->
         <version>3.6.1</version>
     </plugin>
-</plugins>
+
       </plugins>
   
    </pluginManagement>
