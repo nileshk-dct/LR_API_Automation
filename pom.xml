@@ -39,12 +39,19 @@
         </plugin>
 
 	 
-    <plugin>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-deploy-plugin</artifactId>
+          <version>3.1.1</version>
+        </plugin>
+      
+    
+    <!-- To use the plugin goals in your POM or parent POM -->
+    
+      <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-deploy-plugin</artifactId>
-        <!-- Update the version to the latest available -->
-        <version>3.1.1</version>
-    </plugin>
+      </plugin>
 
       </plugins>
   
