@@ -3,10 +3,19 @@
   <groupId>LR_API_Automation</groupId>
   <artifactId>LR_API_Automation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+
+	 
+	<distributionManagement>
+        <repository>
+            <id>LR_API_Automation</id>
+            <url>https://github.com/nileshk-dct/LR_API_Automation.git</url>
+        </repository>
+    </distributionManagement>
   
   <build>
     <pluginManagement>
+
+	  
   
  <plugins>
         <plugin>
