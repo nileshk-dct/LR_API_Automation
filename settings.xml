@@ -1,0 +1,10 @@
+<!-- Maven settings.xml -->
+<settings>
+    <servers>
+        <server>
+            <id>LR_API_Automation</id>
+            <username>nileshk-dct</username>
+            <password>Nilecent!9</password>
+        </server>
+    </servers>
+</settings>
